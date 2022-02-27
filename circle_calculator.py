@@ -9,10 +9,10 @@ import math
 
 def main():
     print("If your circle radius is")
-    print("15mm")
+    print("15 mm")
     print("")
-    print("The area of your circle is {}cm².".format(math.pi * 15**2))
-    print("The perimeter of your circle is {}cm".format(2 * (math.pi + 15)))
+    print("The area of your circle is {} mm².".format(math.pi * 15**2))
+    print("The perimeter of your circle is {} mm".format(2 * (math.pi + 15)))
     print("")
     print("Done.")
 
